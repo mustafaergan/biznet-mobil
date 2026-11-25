@@ -1,0 +1,17 @@
+# Android Studio / Gradle
+.gradle/
+build/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+.idea/
+*.iml
+
+# Diğer
+*.log
+.env
+.DS_Store
+Thumbs.db
